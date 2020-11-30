@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Datos Personales</string>
+    <string name="tvNombre">Name</string>
+    <string name="tvApellido">Last Name</string>
+    <string name="tvedad">Year</string>
+    <string name="btnValidar">Validate</string>
+    <string name="btnBorrar">Delete</string>
+    <string name="str_button">Translate</string>
+    <string name="str_en">English</string>
+    <string name="str_es">Spanish</string>
+    <string name="tvGenero">gender</string>
+    <string name="tvEstado">Marital Status</string>
+    <string name="tvHijos">Sons</string>
+    <string name="Seleccionaruno">Select One</string>
+    <string name="Otr">Other</string>
+    <string name="Solter">Single</string>
+    <string name="Casad">Married</string>
+    <string name="Separad">Separated</string>
+    <string name="Viud">Widower</string>
+    <string name="rbfeminino">Female</string>
+    <string name="rbMasculino">Male</string>
+</resources>

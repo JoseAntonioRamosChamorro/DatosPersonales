@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Datos Personales</string>
+    //nombre
+    <string name="tvNombre">Nombre</string>
+    <string name="tvApellido">Apellido</string>
+    <string name="tvedad">edad</string>
+    <string name="tvGenero">Genero</string>
+    <string name="tvEstado">EstadoCivil</string>
+    <string name="tvHijos">Hijos</string>
+    <string name="rbfeminino">Femenino</string>
+    <string name="rbMasculino">Masculino</string>
+    //rellenar
+    <string name="edNombre" translatable="false"></string>
+    <string name="edApellido" translatable="false"></string>
+    <string name="edEdad" translatable="false"></string>
+    //boton
+    <string name="btnValidar">Validar</string>
+    <string name="btnBorrar">Borrar</string>
+
+    //array estados
+    <string name="Seleccionaruno">Seleccionar uno</string>
+    <string name="Solter">Solter@</string>
+    <string name="Casad">Casad@</string>
+    <string name="Separad">Separad@</string>
+    <string name="Viud">Viud@</string>
+    <string name="Otr">Otr@</string>
+    <string-array name="datos">
+        <item>@string/Seleccionaruno</item>
+        <item>@string/Solter</item>
+        <item>@string/Casad</item>
+        <item>@string/Separad</item>
+        <item>@string/Viud</item>
+        <item>@string/Otr</item>
+
+
+
+    </string-array>
+//Idimomas
+    <string name="str_button">Traducir</string>
+    <string name="str_en" >Ingles</string>
+    <string name="str_es" >Español</string>
+    <string-array name="languages" >
+        <item>@string/str_en</item>
+        <item>@string/str_es</item>
+      </string-array>
+
+</resources>
